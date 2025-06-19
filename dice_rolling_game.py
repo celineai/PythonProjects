@@ -1,5 +1,9 @@
 """
 Part of Programming with Mosh's Python Projects Tutorial.
+Future enhancements include:
+    - Keeping track of how many times the user rolled.
+    - Ask how many times the user rolled.
+    - Snake eyes. 
 """
 
 import random

@@ -30,7 +30,7 @@ def determine_winner(user_choice, computer_choice):
         print("You lose")
 
 
-def play_grame():
+def play_game():
     while True:
         user_choice = get_user_choice()
 
